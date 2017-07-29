@@ -1,0 +1,112 @@
+﻿<Page
+    x:Class="stone.paper.scissors.thread.summary"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:stone.paper.scissors.thread"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" Loaded="summarycode">
+
+    <Page.Resources>
+        <Style x:Key="gameoversagar" TargetType="HyperlinkButton">
+            <Setter Property="Foreground" Value="{ThemeResource HyperlinkForegroundThemeBrush}"/>
+            <Setter Property="Background" Value="{ThemeResource HyperlinkButtonBackgroundThemeBrush}"/>
+            <Setter Property="BorderBrush" Value="{ThemeResource HyperlinkButtonBorderThemeBrush}"/>
+            <Setter Property="BorderThickness" Value="{ThemeResource HyperlinkButtonBorderThemeThickness}"/>
+            <Setter Property="Padding" Value="12,4,12,5"/>
+            <Setter Property="HorizontalAlignment" Value="Left"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="FontFamily" Value="{ThemeResource ContentControlThemeFontFamily}"/>
+            <Setter Property="FontWeight" Value="SemiBold"/>
+            <Setter Property="FontSize" Value="{ThemeResource ControlContentThemeFontSize}"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="HyperlinkButton">
+                        <Grid>
+                            <VisualStateManager.VisualStateGroups>
+                                <VisualStateGroup x:Name="CommonStates">
+                                    <VisualState x:Name="Normal"/>
+                                    <VisualState x:Name="PointerOver">
+                                        <Storyboard>
+                                            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="Foreground" Storyboard.TargetName="ContentPresenter">
+                                                <DiscreteObjectKeyFrame KeyTime="0" Value="Black"/>
+                                            </ObjectAnimationUsingKeyFrames>
+                                        </Storyboard>
+                                    </VisualState>
+                                    <VisualState x:Name="Pressed">
+                                        <Storyboard>
+                                            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="Foreground" Storyboard.TargetName="ContentPresenter">
+                                                <DiscreteObjectKeyFrame KeyTime="0" Value="{ThemeResource HyperlinkPressedForegroundThemeBrush}"/>
+                                            </ObjectAnimationUsingKeyFrames>
+                                        </Storyboard>
+                                    </VisualState>
+                                    <VisualState x:Name="Disabled">
+                                        <Storyboard>
+                                            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="Foreground" Storyboard.TargetName="ContentPresenter">
+                                                <DiscreteObjectKeyFrame KeyTime="0" Value="{ThemeResource HyperlinkDisabledThemeBrush}"/>
+                                            </ObjectAnimationUsingKeyFrames>
+                                        </Storyboard>
+                                    </VisualState>
+                                </VisualStateGroup>
+                                <VisualStateGroup x:Name="FocusStates">
+                                    <VisualState x:Name="Focused">
+                                        <Storyboard>
+                                            <DoubleAnimation Duration="0" To="1" Storyboard.TargetProperty="Opacity" Storyboard.TargetName="FocusVisualWhite"/>
+                                            <DoubleAnimation Duration="0" To="1" Storyboard.TargetProperty="Opacity" Storyboard.TargetName="FocusVisualBlack"/>
+                                        </Storyboard>
+                                    </VisualState>
+                                    <VisualState x:Name="Unfocused"/>
+                                    <VisualState x:Name="PointerFocused"/>
+                                </VisualStateGroup>
+                            </VisualStateManager.VisualStateGroups>
+                            <Border x:Name="Border" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" Background="{TemplateBinding Background}" Margin="3">
+                                <ContentPresenter x:Name="ContentPresenter" AutomationProperties.AccessibilityView="Raw" ContentTemplate="{TemplateBinding ContentTemplate}" ContentTransitions="{TemplateBinding ContentTransitions}" Content="{TemplateBinding Content}" HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" Margin="{TemplateBinding Padding}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                            </Border>
+                            <Rectangle x:Name="FocusVisualWhite" IsHitTestVisible="False" Opacity="0" StrokeDashOffset="1.5" StrokeEndLineCap="Square" Stroke="{ThemeResource FocusVisualWhiteStrokeThemeBrush}" StrokeDashArray="1,1"/>
+                            <Rectangle x:Name="FocusVisualBlack" IsHitTestVisible="False" Opacity="0" StrokeDashOffset="0.5" StrokeEndLineCap="Square" Stroke="{ThemeResource FocusVisualBlackStrokeThemeBrush}" StrokeDashArray="1,1"/>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Page.Resources>
+    
+    
+    
+    <Grid Background="#00AFF0">
+
+        <!--this is the scoreboard-->
+        <Border x:Name="boardborder" BorderThickness="2" BorderBrush="Black"
+                HorizontalAlignment="Left" Height="127" Margin="936,33,0,0" VerticalAlignment="Top" Width="355"
+                Visibility="Visible" Background="Azure"  CornerRadius="15" RenderTransformOrigin="0.476,1.363">
+
+            <Grid x:Name="boardgrid" HorizontalAlignment="Center" Height="127" Margin="0,0,0,0" VerticalAlignment="Center" Width="355">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="47*"/>
+                    <RowDefinition Height="80*"/>
+                </Grid.RowDefinitions>
+
+
+                <TextBlock x:Name="scorehead" Text="Scoreboard" FontSize="40" Grid.Row="0" TextAlignment="Center" Height="47" Width="355" Foreground="Black" Margin="0,8,0,72" Grid.RowSpan="2"/>
+
+                <TextBlock x:Name="userscore" Text="" FontSize="40" Grid.Row="1" TextAlignment="Center" Height="60" Foreground="Black" Margin="34,10,219,0" />
+                <TextBlock x:Name="dash" Text="-" FontSize="70" TextAlignment="Center"  Height="60" Foreground="Black" Margin="123,43,130,24" Grid.RowSpan="2" />
+                <TextBlock x:Name="compscore" Text="" FontSize="40" Grid.Row="1" TextAlignment="Center" Height="60" Foreground="Black" Margin="218,15,35,5" />
+
+
+            </Grid>
+
+        </Border>
+
+
+        <!--this is the dialog box that appears when the game gets over-->
+        <Canvas x:Name="overcanvas"  HorizontalAlignment="Stretch" Height="595" Margin="0,170,0,0" VerticalAlignment="Top" Background="#FF00AFF0" Visibility="Visible">
+            <TextBlock x:Name="gameover_dialog" Canvas.Left="93" FontSize="50" TextAlignment="Center" TextWrapping="Wrap" Text="" FontFamily="Elephant" Foreground="GreenYellow" Canvas.Top="54" Height="89" Width="827"/>
+            <HyperlinkButton x:Name="nextpage" Content="Main Menu" Canvas.Left="1050" Canvas.Top="471" Width="170" FontSize="25" Height="50" Click="nextpage_Click"  Background="Azure"  Visibility="Visible" BorderBrush="Black" Foreground="Red" Style="{StaticResource gameoversagar}"/>
+            <Image x:Name="gameover_img" Height="300" Canvas.Left="345" Canvas.Top="162" Width="300"/>
+        </Canvas>
+
+        <MediaElement x:Name="chimes" HorizontalAlignment="Left" Height="43" Margin="561,91,0,0" VerticalAlignment="Top" Width="48" Source="Assets/tada.wav" AutoPlay="False"/>
+       
+    </Grid>
+</Page>

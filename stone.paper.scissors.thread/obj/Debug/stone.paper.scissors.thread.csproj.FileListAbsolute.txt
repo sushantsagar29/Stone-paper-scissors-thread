@@ -1,0 +1,107 @@
+D:\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\bin\Debug\App.xbf
+D:\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\bin\Debug\entry.xbf
+D:\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\bin\Debug\MainPage.xbf
+D:\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\bin\Debug\stone.paper.scissors.thread.exe
+D:\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\bin\Debug\stone.paper.scissors.thread.pdb
+D:\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\bin\Debug\resources.pri
+D:\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\bin\Debug\AppxManifest.xml
+D:\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\bin\Debug\stone.paper.scissors.thread.build.appxrecipe
+D:\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\App.g.i.cs
+D:\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\App.g.cs
+D:\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\entry.g.i.cs
+D:\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\entry.g.cs
+D:\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\MainPage.g.i.cs
+D:\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\MainPage.g.cs
+D:\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\XamlTypeInfo.g.cs
+D:\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\App.xaml
+D:\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\MainPage.xaml
+D:\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\App.xbf
+D:\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\MainPage.xbf
+D:\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\XamlSaveStateFile.xml
+D:\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\entry.xaml
+D:\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\entry.xbf
+D:\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\stone.paper.scissors.thread.exe
+D:\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\stone.paper.scissors.thread.pdb
+D:\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\priconfig.xml
+D:\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\priconfig.xml.intermediate
+D:\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\layout.resfiles
+D:\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\layout.resfiles.intermediate
+D:\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\resources.resfiles
+D:\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\resources.resfiles.intermediate
+D:\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\pri.resfiles
+D:\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\pri.resfiles.intermediate
+D:\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\qualifiers.txt
+D:\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\qualifiers.txt.intermediate
+D:\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\ProjectArchitectures.txt
+D:\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\bin\Debug\game.xbf
+D:\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\game.g.i.cs
+D:\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\game.g.cs
+D:\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\game.xaml
+D:\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\game.xbf
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\bin\Debug\App.xbf
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\bin\Debug\entry.xbf
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\bin\Debug\game.xbf
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\bin\Debug\MainPage.xbf
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\bin\Debug\summary.xbf
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\bin\Debug\stone.paper.scissors.thread.exe
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\bin\Debug\stone.paper.scissors.thread.pdb
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\bin\Debug\resources.pri
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\bin\Debug\AppxManifest.xml
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\bin\Debug\stone.paper.scissors.thread.build.appxrecipe
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\App.g.i.cs
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\App.g.cs
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\entry.g.i.cs
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\entry.g.cs
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\game.g.i.cs
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\game.g.cs
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\MainPage.g.i.cs
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\MainPage.g.cs
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\summary.g.i.cs
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\summary.g.cs
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\XamlTypeInfo.g.cs
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\App.xaml
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\entry.xaml
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\game.xaml
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\MainPage.xaml
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\summary.xaml
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\App.xbf
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\entry.xbf
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\game.xbf
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\MainPage.xbf
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\summary.xbf
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\XamlSaveStateFile.xml
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\stone.paper.scissors.thread.exe
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\stone.paper.scissors.thread.pdb
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\priconfig.xml
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\priconfig.xml.intermediate
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\layout.resfiles
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\layout.resfiles.intermediate
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\resources.resfiles
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\resources.resfiles.intermediate
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\pri.resfiles
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\pri.resfiles.intermediate
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\qualifiers.txt
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\qualifiers.txt.intermediate
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\ProjectArchitectures.txt
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\bin\Debug\About Us.xbf
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\bin\Debug\Credits.xbf
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\bin\Debug\Help.xbf
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\bin\Debug\Privacy Policy.xbf
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\About Us.g.i.cs
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\About Us.g.cs
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\Credits.g.i.cs
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\Credits.g.cs
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\Help.g.i.cs
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\Help.g.cs
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\Privacy Policy.g.i.cs
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\Privacy Policy.g.cs
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\About Us.xaml
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\Credits.xaml
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\Help.xaml
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\Privacy Policy.xaml
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\About Us.xbf
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\Credits.xbf
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\Help.xbf
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Debug\Privacy Policy.xbf

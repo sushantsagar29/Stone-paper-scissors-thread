@@ -1,0 +1,33 @@
+﻿<Page
+    x:Class="stone.paper.scissors.thread.entry"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:stone.paper.scissors.thread"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="#00AFF0">
+
+
+        <TextBlock x:Name="promptname" Text="Enter Your Name" Height="44" Width="310" VerticalAlignment="Center" HorizontalAlignment="Center"  FontSize="40" Foreground="Black" Margin="240,164,816,560"/>
+        <TextBox x:ConnectionId='1' x:Name="enter_name" Text="You" HorizontalAlignment="Center" Height="44" Width="310" Margin="240,224,816,500" VerticalAlignment="Center" FontSize="20"                     />
+
+        <TextBlock x:Name="promptround" HorizontalAlignment="Center" Margin="810,162,293,558" TextWrapping="Wrap" Text="No. Of Rounds" FontSize="40" Foreground="Black" VerticalAlignment="Center"/>
+        <ComboBox x:Name="enter_round" Height="48" Width="262" HorizontalAlignment="Center"  VerticalAlignment="Center" Margin="810,222,293,498" FontSize="20" SelectedItem="1">
+            <x:String>1</x:String>
+            <x:String>3</x:String>
+            <x:String>5</x:String>
+            <x:String>7</x:String>
+            <x:String>9</x:String>
+        </ComboBox>
+
+
+        <HyperlinkButton x:ConnectionId='2' x:Name="playbutton" Content="Play" Width="200" BorderThickness="0" Background="Black" Foreground="White" Height="70" HorizontalAlignment="Center"  VerticalAlignment="Center" FontSize="30"                          />
+
+        <ToggleSwitch x:Name="music_toggle" Header="Music" OnContent="On" OffContent="Off" Margin="1115,625,0,70" IsOn="True" FontSize="20"/>
+
+
+    </Grid>
+</Page>
+

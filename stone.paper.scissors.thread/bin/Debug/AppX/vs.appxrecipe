@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SUSHANT015</Machine>
+    <WindowsUser>Sushant Sagar</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>63579sushantsagar.stone.paper.scissors.thread</PackageIdentityName>
+    <RegisteredManifestChecksum>8D1168275EFF1BBCF46427D21ADA435AE0FD20D92A3FED5531316C6D0ABE2F65</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>63579sushantsagar.stone.paper.scissors.thread_1.1.0.0_neutral__348c2cyx0can6</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>63579sushantsagar.stone.paper.scissors.thread_348c2cyx0can6!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>63579sushantsagar.stone.paper.scissors.thread</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=BBA6BE7F-05E5-4787-972C-E59A69995A9B</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-01-15T19:04:43.310</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\bin\Debug\stone.paper.scissors.thread.exe">
+      <PackagePath>stone.paper.scissors.thread.exe</PackagePath>
+      <Modified>2014-01-15T19:04:43.002</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\Assets\back.jpg">
+      <PackagePath>Assets\back.jpg</PackagePath>
+      <Modified>2014-01-01T17:05:00.318</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\Assets\Hands-Thumb-down-icon.png">
+      <PackagePath>Assets\Hands-Thumb-down-icon.png</PackagePath>
+      <Modified>2014-01-01T15:29:17.921</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\Assets\Hands-Thumb-up-icon.png">
+      <PackagePath>Assets\Hands-Thumb-up-icon.png</PackagePath>
+      <Modified>2014-01-01T15:29:17.934</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\Assets\happy-icon.png">
+      <PackagePath>Assets\happy-icon.png</PackagePath>
+      <Modified>2013-12-29T14:47:56.852</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-01-10T10:24:23.040</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\Assets\main_page_logo.png">
+      <PackagePath>Assets\main_page_logo.png</PackagePath>
+      <Modified>2014-01-10T10:52:02.096</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\Assets\paper.png">
+      <PackagePath>Assets\paper.png</PackagePath>
+      <Modified>2014-01-09T19:41:17.489</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\Assets\scissors.png">
+      <PackagePath>Assets\scissors.png</PackagePath>
+      <Modified>2014-01-09T19:41:17.493</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-01-10T10:25:13.665</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-01-10T07:59:51.465</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\Assets\stone.png">
+      <PackagePath>Assets\stone.png</PackagePath>
+      <Modified>2014-01-09T19:41:17.496</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-01-10T10:24:49.274</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\Assets\thread.png">
+      <PackagePath>Assets\thread.png</PackagePath>
+      <Modified>2014-01-09T19:41:17.499</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\Assets\try-again.png">
+      <PackagePath>Assets\try-again.png</PackagePath>
+      <Modified>2013-12-29T14:47:56.901</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-01-10T10:58:19.221</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\Assets\tada.wav">
+      <PackagePath>Assets\tada.wav</PackagePath>
+      <Modified>2014-01-01T15:42:23.329</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\Assets\Windows Error.wav">
+      <PackagePath>Assets\Windows Error.wav</PackagePath>
+      <Modified>2014-01-01T15:42:23.342</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-01-08T16:50:51.669</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\bin\Debug\About Us.xbf">
+      <PackagePath>About Us.xbf</PackagePath>
+      <Modified>2014-01-15T19:04:42.797</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\bin\Debug\Credits.xbf">
+      <PackagePath>Credits.xbf</PackagePath>
+      <Modified>2014-01-15T19:04:42.798</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\bin\Debug\entry.xbf">
+      <PackagePath>entry.xbf</PackagePath>
+      <Modified>2014-01-08T16:50:51.671</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\bin\Debug\game.xbf">
+      <PackagePath>game.xbf</PackagePath>
+      <Modified>2014-01-09T19:56:23.947</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\bin\Debug\Help.xbf">
+      <PackagePath>Help.xbf</PackagePath>
+      <Modified>2014-01-15T19:04:42.800</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-01-10T08:44:34.236</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\bin\Debug\Privacy Policy.xbf">
+      <PackagePath>Privacy Policy.xbf</PackagePath>
+      <Modified>2014-01-15T19:04:42.801</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\bin\Debug\summary.xbf">
+      <PackagePath>summary.xbf</PackagePath>
+      <Modified>2014-01-10T09:30:35.693</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-01-15T19:04:43.149</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

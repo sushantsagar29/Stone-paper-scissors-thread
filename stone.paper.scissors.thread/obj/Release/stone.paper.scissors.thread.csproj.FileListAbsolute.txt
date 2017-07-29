@@ -1,0 +1,66 @@
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\bin\Release\App.xbf
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\bin\Release\entry.xbf
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\bin\Release\game.xbf
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\bin\Release\MainPage.xbf
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\bin\Release\summary.xbf
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\bin\Release\stone.paper.scissors.thread.exe
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\bin\Release\stone.paper.scissors.thread.pdb
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\bin\Release\resources.pri
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\bin\Release\AppxManifest.xml
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\bin\Release\stone.paper.scissors.thread.build.appxrecipe
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Release\App.g.i.cs
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Release\App.g.cs
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Release\entry.g.i.cs
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Release\entry.g.cs
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Release\game.g.i.cs
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Release\game.g.cs
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Release\MainPage.g.i.cs
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Release\MainPage.g.cs
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Release\summary.g.i.cs
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Release\summary.g.cs
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Release\XamlTypeInfo.g.cs
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Release\App.xaml
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Release\entry.xaml
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Release\game.xaml
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Release\MainPage.xaml
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Release\summary.xaml
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Release\App.xbf
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Release\entry.xbf
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Release\game.xbf
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Release\MainPage.xbf
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Release\summary.xbf
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Release\XamlSaveStateFile.xml
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Release\stone.paper.scissors.thread.exe
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Release\stone.paper.scissors.thread.pdb
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Release\priconfig.xml
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Release\priconfig.xml.intermediate
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Release\layout.resfiles
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Release\layout.resfiles.intermediate
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Release\resources.resfiles
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Release\resources.resfiles.intermediate
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Release\pri.resfiles
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Release\pri.resfiles.intermediate
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Release\qualifiers.txt
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Release\qualifiers.txt.intermediate
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Release\MultipleQualifiersPerDimensionFound.txt
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Release\ProjectArchitectures.txt
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\bin\Release\About Us.xbf
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\bin\Release\Credits.xbf
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\bin\Release\Help.xbf
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\bin\Release\Privacy Policy.xbf
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Release\About Us.g.i.cs
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Release\About Us.g.cs
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Release\Credits.g.i.cs
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Release\Credits.g.cs
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Release\Help.g.i.cs
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Release\Help.g.cs
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Release\Privacy Policy.g.i.cs
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Release\Privacy Policy.g.cs
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Release\About Us.xaml
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Release\Credits.xaml
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Release\Help.xaml
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Release\Privacy Policy.xaml
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Release\About Us.xbf
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Release\Credits.xbf
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Release\Help.xbf
+D:\VS apps\win\stone app\stone.paper.scissors.thread\stone.paper.scissors.thread\obj\Release\Privacy Policy.xbf

@@ -1,0 +1,127 @@
+﻿<Page
+    x:Class="stone.paper.scissors.thread.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:stone.paper.scissors.thread"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <Page.Resources>
+        <Style x:Key="helpsagar" TargetType="Button">
+            <Setter Property="Background" Value="{ThemeResource ButtonBackgroundThemeBrush}"/>
+            <Setter Property="Foreground" Value="{ThemeResource ButtonForegroundThemeBrush}"/>
+            <Setter Property="BorderBrush" Value="{ThemeResource ButtonBorderThemeBrush}"/>
+            <Setter Property="BorderThickness" Value="{ThemeResource ButtonBorderThemeThickness}"/>
+            <Setter Property="Padding" Value="12,4,12,4"/>
+            <Setter Property="HorizontalAlignment" Value="Left"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+            <Setter Property="FontFamily" Value="{ThemeResource ContentControlThemeFontFamily}"/>
+            <Setter Property="FontWeight" Value="SemiBold"/>
+            <Setter Property="FontSize" Value="{ThemeResource ControlContentThemeFontSize}"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Grid>
+                            <VisualStateManager.VisualStateGroups>
+                                <VisualStateGroup x:Name="CommonStates">
+                                    <VisualState x:Name="Normal"/>
+                                    <VisualState x:Name="PointerOver">
+                                        <Storyboard>
+
+                                            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="Foreground" Storyboard.TargetName="ContentPresenter">
+                                                <DiscreteObjectKeyFrame KeyTime="0" Value="{ThemeResource ButtonPointerOverForegroundThemeBrush}"/>
+                                            </ObjectAnimationUsingKeyFrames>
+                                        </Storyboard>
+                                    </VisualState>
+                                    <VisualState x:Name="Pressed">
+                                        <Storyboard>
+
+                                            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="Foreground" Storyboard.TargetName="ContentPresenter">
+                                                <DiscreteObjectKeyFrame KeyTime="0" Value="{ThemeResource ButtonPressedForegroundThemeBrush}"/>
+                                            </ObjectAnimationUsingKeyFrames>
+                                        </Storyboard>
+                                    </VisualState>
+                                    <VisualState x:Name="Disabled">
+                                        <Storyboard>
+                                            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="Background" Storyboard.TargetName="Border">
+                                                <DiscreteObjectKeyFrame KeyTime="0" Value="{ThemeResource ButtonDisabledBackgroundThemeBrush}"/>
+                                            </ObjectAnimationUsingKeyFrames>
+                                            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="BorderBrush" Storyboard.TargetName="Border">
+                                                <DiscreteObjectKeyFrame KeyTime="0" Value="{ThemeResource ButtonDisabledBorderThemeBrush}"/>
+                                            </ObjectAnimationUsingKeyFrames>
+                                            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="Foreground" Storyboard.TargetName="ContentPresenter">
+                                                <DiscreteObjectKeyFrame KeyTime="0" Value="{ThemeResource ButtonDisabledForegroundThemeBrush}"/>
+                                            </ObjectAnimationUsingKeyFrames>
+                                        </Storyboard>
+                                    </VisualState>
+                                </VisualStateGroup>
+                                <VisualStateGroup x:Name="FocusStates">
+                                    <VisualState x:Name="Focused">
+                                        <Storyboard>
+                                            <DoubleAnimation Duration="0" To="1" Storyboard.TargetProperty="Opacity" Storyboard.TargetName="FocusVisualWhite"/>
+                                            <DoubleAnimation Duration="0" To="1" Storyboard.TargetProperty="Opacity" Storyboard.TargetName="FocusVisualBlack"/>
+                                        </Storyboard>
+                                    </VisualState>
+                                    <VisualState x:Name="Unfocused"/>
+                                    <VisualState x:Name="PointerFocused"/>
+                                </VisualStateGroup>
+                            </VisualStateManager.VisualStateGroups>
+                            <Border x:Name="Border" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" Background="{TemplateBinding Background}" Margin="3">
+                                <ContentPresenter x:Name="ContentPresenter" AutomationProperties.AccessibilityView="Raw" ContentTemplate="{TemplateBinding ContentTemplate}" ContentTransitions="{TemplateBinding ContentTransitions}" Content="{TemplateBinding Content}" HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" Margin="{TemplateBinding Padding}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                            </Border>
+                            <Rectangle x:Name="FocusVisualWhite" IsHitTestVisible="False" Opacity="0" StrokeDashOffset="1.5" StrokeEndLineCap="Square" Stroke="{ThemeResource FocusVisualWhiteStrokeThemeBrush}" StrokeDashArray="1,1"/>
+                            <Rectangle x:Name="FocusVisualBlack" IsHitTestVisible="False" Opacity="0" StrokeDashOffset="0.5" StrokeEndLineCap="Square" Stroke="{ThemeResource FocusVisualBlackStrokeThemeBrush}" StrokeDashArray="1,1"/>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Page.Resources>
+
+    <Grid Background="#FF00AFF0">
+
+        <TextBlock x:Name="header" Text="Stone.Paper.Scissors.Thread" Height="100" TextAlignment="Center" FontSize="50" Foreground="Black" Margin="218,88,238,580" FontFamily="Segoe Print"/>
+
+
+        <Ellipse HorizontalAlignment="Left" Height="90" Margin="786,579,0,0" VerticalAlignment="Top" Width="130" Fill="Red"/>
+        <Ellipse Fill="Blue" HorizontalAlignment="Left" Height="90" Margin="956,579,0,0" VerticalAlignment="Top" Width="130"/>
+        <Ellipse Fill="Green" HorizontalAlignment="Left" Height="90" Margin="1126,579,0,0" VerticalAlignment="Top" Width="130"/>
+
+        <HyperlinkButton x:ConnectionId='1' x:Name="playbutton" Content="Play" HorizontalAlignment="Left" Margin="786,579,0,0" VerticalAlignment="Top" Height="90" Width="130" BorderThickness="0" FontSize="35" Foreground="White"                         />
+        <Button x:ConnectionId='2' x:Name="helpbutton" Content="Help" HorizontalAlignment="Left" Margin="956,579,0,0" VerticalAlignment="Top" Height="90" Width="130" BorderThickness="0" FontSize="35"                          Style="{StaticResource helpsagar}"/>
+        <Button x:ConnectionId='3' x:Name="aboutbutton" Content="About" HorizontalAlignment="Left" Margin="1126,579,0,0" VerticalAlignment="Top" Height="90" Width="130" BorderThickness="0" FontSize="35"                           Style="{StaticResource helpsagar}"/>
+
+
+
+        <!--this is dialog box for help button-->
+        <Border x:Name="border2" BorderThickness="2" BorderBrush="Black" Background="White"
+                HorizontalAlignment="Center" VerticalAlignment="Center"
+                 Width="370" Height="370" Visibility="Collapsed" Margin="823,188,173,210" CornerRadius="15">
+
+            <Canvas x:Name="helpdialog" Height="370" Width="370" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="0,0,0,0" >
+                <TextBlock x:Name="help_block" Text="" Height="340" Width="340" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="15,15,15,15" FontSize="20" Foreground="Black" TextWrapping="Wrap"></TextBlock>
+                <Button x:ConnectionId='5' x:Name="close_help" Content="Ok" Background="Black" Foreground="Red" Width="100" Height="50" FontSize="20" HorizontalAlignment="Right" VerticalAlignment="Bottom" Canvas.Left="256" Canvas.Top="307" Style="{StaticResource helpsagar}"                          />
+            </Canvas>
+
+        </Border>
+
+
+
+        <!--this is the dialog box for about button-->
+        <Border x:Name="border3" BorderThickness="2" BorderBrush="Black" Background="White"
+                HorizontalAlignment="Center" VerticalAlignment="Center"
+                 Width="370" Height="370" Visibility="Collapsed" Margin="823,188,173,210" CornerRadius="15">
+
+            <Canvas x:Name="aboutdialog" Height="370" Width="370" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="0,0,0,0" >
+                <TextBlock x:Name="about_block" Text="" Height="340" Width="340" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="15,15,15,15" FontSize="20" Foreground="Black" TextWrapping="Wrap"></TextBlock>
+                <Button x:ConnectionId='4' x:Name="close_about" Content="Ok" Background="Black" Foreground="Red" Width="100" Height="50" FontSize="20" HorizontalAlignment="Right" VerticalAlignment="Bottom" Canvas.Left="256" Canvas.Top="307" Style="{StaticResource helpsagar}"                          />
+            </Canvas>
+
+        </Border>
+        
+        <Image x:Name="logo" HorizontalAlignment="Left" Height="400" Margin="76,188,0,0" VerticalAlignment="Top" Width="500" Source="Assets/main_page_logo.png" />
+
+
+    </Grid>
+</Page>
+
